@@ -1,0 +1,1 @@
+/home/theo/Bureau/poolSoftware/day1/my_name_is/my_name_is/target/debug/my_name_is: /home/theo/Bureau/poolSoftware/day1/my_name_is/my_name_is/src/main.rs /home/theo/Bureau/poolSoftware/day1/my_name_is/my_name_is/src/what_is_your_name.rs
